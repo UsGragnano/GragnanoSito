@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 62,
     "versionPublish": "4.7.0",
@@ -1201,7 +1201,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Società",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1957,7 +1957,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Squadre",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
